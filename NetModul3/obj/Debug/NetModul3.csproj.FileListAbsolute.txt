@@ -1,0 +1,6 @@
+c:\users\geeksfarm\documents\visual studio 2015\Projects\NetModul3\NetModul3\bin\Debug\NetModul3.exe.config
+c:\users\geeksfarm\documents\visual studio 2015\Projects\NetModul3\NetModul3\bin\Debug\NetModul3.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\NetModul3\NetModul3\bin\Debug\NetModul3.pdb
+c:\users\geeksfarm\documents\visual studio 2015\Projects\NetModul3\NetModul3\obj\Debug\NetModul3.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\NetModul3\NetModul3\obj\Debug\NetModul3.pdb
+c:\users\geeksfarm\documents\visual studio 2015\Projects\NetModul3\NetModul3\obj\Debug\NetModul3.csprojResolveAssemblyReference.cache
